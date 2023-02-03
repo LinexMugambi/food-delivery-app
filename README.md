@@ -39,3 +39,4 @@ npm i
 npm start
 
 ```
+Update README.md with info 3
