@@ -39,17 +39,3 @@ npm i
 npm start
 
 ```
-Update README.md with info 3
-Update README.md with info 8
-Update README.md with info 13
-Update README.md with info 18
-Update README.md with info 23
-Update README.md with info 28
-Update README.md with info 33
-Update README.md with info 38
-Update README.md with info 43
-Update README.md with info 48
-Update README.md with info 53
-Update README.md with info 58
-Update README.md with info 63
-Update README.md with info 68
